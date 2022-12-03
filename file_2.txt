@@ -1,2 +1,3 @@
 New code file added
-Second line adde in second file added
+Second line adde in second file added.
+Third line added from remote.
