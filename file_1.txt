@@ -2,5 +2,6 @@ This is first file and first line
 Second line added.
 Third line added from local.
 Third line added from remote.
+Fourth line added from remote.
 
 
